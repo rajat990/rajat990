@@ -7,6 +7,8 @@ public @ResponseBody String uploadFileHandler(
 //						byte[] bytes = file.getBytes();
 //
 //						// Creating the directory to store file
+// Creating the directory to store file
+// Creating the directory to store file
 //						String rootPath = request.getServletContext().getRealPath("/");
 //						System.out.println(rootPath);
 //						File dir = new File(rootPath + File.separator + "uploads/images/profile/");
