@@ -37,6 +37,8 @@ public @ResponseBody String uploadFileHandler(
 //			}
 --------------------------------------------------------------------------------------------------------------------------------------
 //View QRCode
+//View QRCode
+//View QRCode//View QRCode
 //			 @RequestMapping(value = "/downloadQRCode/{id}", method = RequestMethod.GET)
 //			 public ModelAndView changeStatus(@PathVariable("id") int id, Model model,HttpSession session
 //					 ,HttpServletRequest request) {
